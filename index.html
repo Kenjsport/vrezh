@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Entertainment Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <div id="app">
+    <nav class="navbar">
+      <div class="logo">EntertainHub</div>
+      <div class="nav-links">
+        <a href="#" class="nav-item active" data-tab="home">Home</a>
+        <a href="#" class="nav-item" data-tab="books">Books</a>
+        <a href="#" class="nav-item" data-tab="films">Films</a>
+        <a href="#" class="nav-item" data-tab="games">Games</a>
+      </div>
+    </nav>
+
+    <main class="content-container">
+      <!-- Views will be injected here or toggled -->
+
+      <!-- Home View -->
+      <section id="home" class="view active">
+        <div class="hero">
+          <h1>Discover Your Next Obsession</h1>
+          <p>Explore our curated collection of Books, Films, and Games.</p>
+          <div class="category-cards">
+            <div class="card" onclick="document.querySelector('[data-tab=books]').click()">
+              <h2>Books</h2>
+              <p>Dive into new worlds.</p>
+            </div>
+            <div class="card" onclick="document.querySelector('[data-tab=films]').click()">
+              <h2>Films</h2>
+              <p>Experience the story.</p>
+            </div>
+            <div class="card" onclick="document.querySelector('[data-tab=games]').click()">
+              <h2>Games</h2>
+              <p>Play the legend.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Books View -->
+      <section id="books" class="view hidden">
+        <header class="section-header">
+          <h2>Books</h2>
+          <div class="filter-tabs">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="Business">Business</button>
+            <button class="filter-btn" data-filter="Self-improvement">Self-improvement</button>
+            <button class="filter-btn" data-filter="Sport">Sport</button>
+            <button class="filter-btn" data-filter="Literature">Literature</button>
+            <button class="filter-btn" data-filter="Science">Science</button>
+          </div>
+        </header>
+        <div class="grid-container" id="books-grid">
+          <!-- Book items will be injected here -->
+        </div>
+      </section>
+
+      <!-- Films View -->
+      <section id="films" class="view hidden">
+        <header class="section-header">
+          <h2>Films</h2>
+          <div class="filter-tabs">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="Thriller">Thriller</button>
+            <button class="filter-btn" data-filter="Sci-Fi">Sci-Fi</button>
+            <button class="filter-btn" data-filter="Fantasy">Fantasy</button>
+            <button class="filter-btn" data-filter="Horror">Horror</button>
+            <button class="filter-btn" data-filter="Crime">Crime</button>
+          </div>
+        </header>
+        <div class="grid-container" id="films-grid">
+          <!-- Film items will be injected here -->
+        </div>
+      </section>
+
+      <!-- Games View -->
+      <section id="games" class="view hidden">
+        <header class="section-header">
+          <h2>Games</h2>
+          <div class="filter-tabs">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="RPG">RPG</button>
+            <button class="filter-btn" data-filter="FPS">FPS</button>
+            <button class="filter-btn" data-filter="Horror">Horror</button>
+          </div>
+        </header>
+        <div class="grid-container" id="games-grid">
+          <!-- Game items will be injected here -->
+        </div>
+      </section>
+
+      <!-- Detail View -->
+      <section id="detail-view" class="view hidden">
+        <div class="back-nav">
+          <button onclick="history.back()" class="back-btn">← Back</button>
+        </div>
+        <div id="detail-content">
+          <!-- Dynamic Content -->
+        </div>
+      </section>
+    </main>
+  </div>
+  <script type="module" src="/main.js"></script>
+</body>
+
+</html>
