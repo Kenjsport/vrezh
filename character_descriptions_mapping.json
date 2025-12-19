@@ -1,0 +1,1055 @@
+{
+  "elden-ring": [
+    {
+      "name": "Melina",
+      "description": "A mysterious maiden who assists the Tarnished on their journey to becomes Elden Lord.",
+      "image": "/assets/characters/elden-ring-melina.jpg"
+    },
+    {
+      "name": "Malenia",
+      "description": "The Goddess of Rot and one of the most powerful demigods in the Lands Between.",
+      "image": "/assets/characters/elden-ring-malenia.jpg"
+    },
+    {
+      "name": "Ranni",
+      "description": "The Princess of the Carian Royal Family who seeks to bring an Age of Stars.",
+      "image": "/assets/characters/elden-ring-ranni.jpg"
+    },
+    {
+      "name": "Blaidd",
+      "description": "A half-wolf warrior and loyal shadow to Ranni the Witch.",
+      "image": "/assets/characters/elden-ring-blaidd.jpg"
+    }
+  ],
+  "the-witcher-3": [
+    {
+      "name": "Geralt of Rivia",
+      "description": "A legendary Witcher known as the White Wolf, searching for his adopted daughter Ciri.",
+      "image": "/assets/characters/the-witcher-3-geralt_of_rivia.jpg"
+    },
+    {
+      "name": "Yennefer of Vengerberg",
+      "description": "A powerful sorceress and the true love of Geralt, searching for Ciri through magical means.",
+      "image": "/assets/characters/the-witcher-3-yennefer_of_vengerberg.jpg"
+    },
+    {
+      "name": "Ciri",
+      "description": "The Child of Destiny with the Elder Blood, capable of traveling between worlds.",
+      "image": "/assets/characters/the-witcher-3-ciri.jpg"
+    },
+    {
+      "name": "Triss Merigold",
+      "description": "A talented sorceress and close ally to Geralt, known for her mastery of fire magic.",
+      "image": "/assets/characters/the-witcher-3-triss_merigold.jpg"
+    }
+  ],
+  "god-of-war": [
+    {
+      "name": "Kratos",
+      "description": "The former God of War who has retired to the Norse realms to raise his son Atreus.",
+      "image": "/assets/characters/god-of-war-kratos.jpg"
+    },
+    {
+      "name": "Atreus",
+      "description": "Kratos's son, a skilled archer who is discovering his own divine heritage as Loki.",
+      "image": "/assets/characters/god-of-war-atreus.jpg"
+    },
+    {
+      "name": "Freya",
+      "description": "A Vanir goddess and former Queen of the Valkyries who has a complex history with Kratos.",
+      "image": "/assets/characters/god-of-war-freya.jpg"
+    },
+    {
+      "name": "Baldur",
+      "description": "An Aesir god and son of Odin, blessed (or cursed) with invulnerability to all physical and magical harm.",
+      "image": "/assets/characters/god-of-war-baldur.jpg"
+    }
+  ],
+  "rdr2": [
+    {
+      "name": "Arthur Morgan",
+      "description": "A high-ranking member of the van der Linde gang, a man of few words but deep internal conflict.",
+      "image": "/assets/characters/rdr2-arthur_morgan.jpg"
+    },
+    {
+      "name": "John Marston",
+      "description": "A former outlaw trying to go straight, father to Jack and husband to Abigail.",
+      "image": "/assets/characters/rdr2-john_marston.jpg"
+    },
+    {
+      "name": "Dutch van der Linde",
+      "description": "The idealistic and increasingly unstable leader of the van der Linde outlaw gang.",
+      "image": "/assets/characters/rdr2-dutch_van_der_linde.jpg"
+    },
+    {
+      "name": "Sadie Adler",
+      "description": "A widow turned fierce bounty hunter and close confidant of Arthur Morgan.",
+      "image": "/assets/characters/rdr2-sadie_adler.jpg"
+    }
+  ],
+  "doom-eternal": [
+    {
+      "name": "Doom Slayer",
+      "description": "The legendary warrior fueled by rage, dedicated to the eternal slaughter of demonic forces.",
+      "image": "/assets/characters/doom-eternal-doom_slayer.jpg"
+    },
+    {
+      "name": "Samuel Hayden",
+      "description": "An enigmatic cyborg and former director of the UAC who oversees the Slayer's mission.",
+      "image": "/assets/characters/doom-eternal-samuel_hayden.jpg"
+    },
+    {
+      "name": "Khan Maykr",
+      "description": "The supreme leader of the Maykrs, seeking to save her people at any cost.",
+      "image": "/assets/characters/doom-eternal-khan_maykr.jpg"
+    }
+  ],
+  "cyberpunk": [
+    {
+      "name": "V (Character)",
+      "description": "A mercenary in Night City, dealing with a biochip containing the psyche of Johnny Silverhand.",
+      "image": "/assets/characters/cyberpunk-v_(character).jpg"
+    },
+    {
+      "name": "Johnny Silverhand",
+      "description": "A legendary rockerboy and anti-establishment rebel whose mind is trapped inside V's head.",
+      "image": "/assets/characters/cyberpunk-johnny_silverhand.jpg"
+    },
+    {
+      "name": "Jackie Welles",
+      "description": "A charismatic mercenary and V's best friend, dreaming of making it big in Night City.",
+      "image": "/assets/characters/cyberpunk-jackie_welles.jpg"
+    },
+    {
+      "name": "Judy Alvarez",
+      "description": "A technical genius and braindance specialist who becomes a close ally to V.",
+      "image": "/assets/characters/cyberpunk-judy_alvarez.jpg"
+    }
+  ],
+  "re-village": [
+    {
+      "name": "Ethan Winters",
+      "description": "A father searching for his kidnapped daughter Rose in a mysterious and deadly village.",
+      "image": "/assets/characters/re-village-ethan_winters.jpg"
+    },
+    {
+      "name": "Alcina Dimitrescu",
+      "description": "A giant noblewoman and one of the four lords of the village, known for her vampiric traits.",
+      "image": "/assets/characters/re-village-alcina_dimitrescu.jpg"
+    },
+    {
+      "name": "Mother Miranda",
+      "description": "The enigmatic leader of the village who is worshiped by its inhabitants.",
+      "image": "/assets/characters/re-village-mother_miranda.jpg"
+    },
+    {
+      "name": "Chris Redfield",
+      "description": "A veteran BSAA operative whose actions initially appear antagonistic to Ethan.",
+      "image": "/assets/characters/re-village-chris_redfield.jpg"
+    }
+  ],
+  "halo-infinite": [
+    {
+      "name": "John-117",
+      "description": "The Master Chief, a legendary Spartan-II supersoldier and humanity's greatest hero.",
+      "image": "/assets/characters/halo-infinite-john-117.jpg"
+    },
+    {
+      "name": "Cortana",
+      "description": "A highly advanced Al and former partner of the Master Chief, whose fate remains a mystery.",
+      "image": "/assets/characters/halo-infinite-cortana.jpg"
+    },
+    {
+      "name": "The Weapon",
+      "description": "A new AI designed to replace Cortana and assist the Master Chief on Zeta Halo.",
+      "image": "/assets/characters/halo-infinite-the_weapon.jpg"
+    },
+    {
+      "name": "Escharum",
+      "description": "The leader of the Banished, an older and highly skilled Brute warrior seeking a final battle.",
+      "image": "/assets/characters/halo-infinite-escharum.jpg"
+    }
+  ],
+  "bloodborne": [
+    {
+      "name": "The Hunter",
+      "description": "A traveler who comes to Yharnam seeking Paleblood and becomes trapped in the Hunter's Dream.",
+      "image": "/assets/characters/bloodborne-the_hunter.jpg"
+    },
+    {
+      "name": "Plain Doll",
+      "description": "An animated doll in the Hunter's Dream who assists the Hunter in leveling up.",
+      "image": "/assets/characters/bloodborne-plain_doll.jpg"
+    },
+    {
+      "name": "Gehrman",
+      "description": "The first Hunter and the host of the Hunter's Dream, serving as a guide to newcomers.",
+      "image": "/assets/characters/bloodborne-gehrman.jpg"
+    },
+    {
+      "name": "Father Gascoigne",
+      "description": "A former hunter of the church who has succumbed to the beast blood.",
+      "image": "/assets/characters/bloodborne-father_gascoigne.jpg"
+    }
+  ],
+  "tlou2": [
+    {
+      "name": "Ellie (The Last of Us Part II)",
+      "description": "A young woman seeking vengeance for a traumatic loss in a post-apocalyptic world.",
+      "image": "/assets/characters/tlou2-ellie_(the_last_of_us_part_ii).jpg"
+    },
+    {
+      "name": "Abby Anderson",
+      "description": "A member of the WLF with her own tragic past, whose path crosses with Ellie's.",
+      "image": "/assets/characters/tlou2-abby_anderson.jpg"
+    },
+    {
+      "name": "Joel Miller",
+      "description": "A father figure to Ellie, whose past decisions have far-reaching consequences.",
+      "image": "/assets/characters/tlou2-joel_miller.jpg"
+    },
+    {
+      "name": "Dina",
+      "description": "Ellie's companion and love interest, who accompanies her on her mission to Seattle.",
+      "image": "/assets/characters/tlou2-dina.jpg"
+    }
+  ],
+  "skyrim": [
+    {
+      "name": "Last Dragonborn",
+      "description": "The legendary hero with the soul of a dragon, destined to stop the world-eater Alduin.",
+      "image": "/assets/characters/skyrim-last_dragonborn.jpg"
+    },
+    {
+      "name": "Alduin",
+      "description": "The World-Eater, a powerful dragon who seeks to bring about the end of the world.",
+      "image": "/assets/characters/skyrim-alduin.jpg"
+    },
+    {
+      "name": "Paarthurnax",
+      "description": "An ancient dragon who helps the Dragonborn and leads the Greybeards.",
+      "image": "/assets/characters/skyrim-paarthurnax.jpg"
+    },
+    {
+      "name": "Balgruuf the Greater",
+      "description": "The Jarl of Whiterun, a pragmatic leader during the Skyrim civil war.",
+      "image": "/assets/characters/skyrim-balgruuf_the_greater.jpg"
+    }
+  ],
+  "fallout-4": [
+    {
+      "name": "Sole Survivor",
+      "description": "A parent who emerges from Vault 111 into the Commonwealth wasteland to find their lost son.",
+      "image": "/assets/characters/fallout-4-sole_survivor.jpg"
+    },
+    {
+      "name": "Piper Wright",
+      "description": "A determined journalist in Diamond City who becomes a companion to the Sole Survivor.",
+      "image": "/assets/characters/fallout-4-piper_wright.jpg"
+    },
+    {
+      "name": "Nick Valentine",
+      "description": "A synth detective with the memories of a pre-war cop, operating a detective agency in Diamond City.",
+      "image": "/assets/characters/fallout-4-nick_valentine.jpg"
+    },
+    {
+      "name": "Paladin Danse",
+      "description": "A dedicated officer of the Brotherhood of Steel, committed to their mission of technological preservation.",
+      "image": "/assets/characters/fallout-4-paladin_danse.jpg"
+    }
+  ],
+  "mass-effect": [
+    {
+      "name": "Commander Shepard",
+      "description": "The first human Spectre and commander of the SSV Normandy, tasked with saving the galaxy.",
+      "image": "/assets/characters/mass-effect-commander_shepard.jpg"
+    },
+    {
+      "name": "Garrus Vakarian",
+      "description": "A Turian former C-Sec officer and loyal companion to Shepard throughout the trilogy.",
+      "image": "/assets/characters/mass-effect-garrus_vakarian.jpg"
+    },
+    {
+      "name": "Liara T'Soni",
+      "description": "An Asari archaeologist and biotic specialist who becomes an expert on the Protheans.",
+      "image": "/assets/characters/mass-effect-liara_t'soni.jpg"
+    },
+    {
+      "name": "Tali'Zorah",
+      "description": "A Quarian technical genius on her Pilgrimage who joins Shepard's crew.",
+      "image": "/assets/characters/mass-effect-tali'zorah.jpg"
+    }
+  ],
+  "persona-5": [
+    {
+      "name": "Protagonist (Persona 5)",
+      "description": "The leader of the Phantom Thieves of Hearts, code-named Joker.",
+      "image": "/assets/characters/persona-5-protagonist_(persona_5).jpg"
+    },
+    {
+      "name": "Morgana",
+      "description": "A mysterious cat-like creature who serves as a guide to the Phantom Thieves.",
+      "image": "/assets/characters/persona-5-morgana.jpg"
+    },
+    {
+      "name": "Ryuji Sakamoto",
+      "description": "A hot-headed former track star and founding member of the Phantom Thieves.",
+      "image": "/assets/characters/persona-5-ryuji_sakamoto.jpg"
+    },
+    {
+      "name": "Ann Takamaki",
+      "description": "A kind-hearted girl and member of the Phantom Thieves who uses fire magic.",
+      "image": "/assets/characters/persona-5-ann_takamaki.jpg"
+    }
+  ],
+  "baldur's-gate-3": [
+    {
+      "name": "Shadowheart",
+      "description": "A cleric of Shar with a mysterious object and a hidden past.",
+      "image": "/assets/characters/baldur's-gate-3-shadowheart.jpg"
+    },
+    {
+      "name": "Astarion",
+      "description": "A high elf vampire spawn who has spent centuries as a slave to a cruel master.",
+      "image": "/assets/characters/baldur's-gate-3-astarion.jpg"
+    },
+    {
+      "name": "Gale",
+      "description": "A human wizard with a dangerous magical condition and an ambitious past.",
+      "image": "/assets/characters/baldur's-gate-3-gale.jpg"
+    },
+    {
+      "name": "Lae'zel",
+      "description": "A fierce Githyanki warrior dedicated to her people and their mission to hunt mind flayers.",
+      "image": "/assets/characters/baldur's-gate-3-lae'zel.jpg"
+    }
+  ],
+  "ff7-remake": [
+    {
+      "name": "Cloud Strife",
+      "description": "A cold and distant mercenary and former member of SOLDIER, wielding the iconic Buster Sword.",
+      "image": "/assets/characters/ff7-remake-cloud_strife.jpg"
+    },
+    {
+      "name": "Tifa Lockhart",
+      "description": "A master of martial arts and member of the anti-Shinra group AVALANCHE.",
+      "image": "/assets/characters/ff7-remake-tifa_lockhart.jpg"
+    },
+    {
+      "name": "Aerith Gainsborough",
+      "description": "A flower girl from the Sector 5 slums with a mysterious connection to the planet.",
+      "image": "/assets/characters/ff7-remake-aerith_gainsborough.jpg"
+    },
+    {
+      "name": "Barret Wallace",
+      "description": "The passionate leader of an AVALANCHE cell, fighting to save the planet from Shinra.",
+      "image": "/assets/characters/ff7-remake-barret_wallace.jpg"
+    }
+  ],
+  "ghost-of-tsushima": [
+    {
+      "name": "Jin Sakai",
+      "description": "The last surviving member of Clan Sakai, who must choose between his samurai code and his home.",
+      "image": "/assets/characters/ghost-of-tsushima-jin_sakai.jpg"
+    },
+    {
+      "name": "Lord Shimura",
+      "description": "The Jito of Tsushima and Jin's uncle, who values honor and the traditional way of the samurai.",
+      "image": "/assets/characters/ghost-of-tsushima-lord_shimura.jpg"
+    },
+    {
+      "name": "Yuna",
+      "description": "A nimble thief who helps Jin adopt the methods of the Ghost to fight the Mongol invasion.",
+      "image": "/assets/characters/ghost-of-tsushima-yuna.jpg"
+    },
+    {
+      "name": "Khotun Khan",
+      "description": "The ruthless leader of the Mongol invasion of Tsushima, a master tactician.",
+      "image": "/assets/characters/ghost-of-tsushima-khotun_khan.jpg"
+    }
+  ],
+  "horizon-zero-dawn": [
+    {
+      "name": "Aloy",
+      "description": "A young hunter and outcast who discovers her origins and the true history of the world.",
+      "image": "/assets/characters/horizon-zero-dawn-aloy.jpg"
+    },
+    {
+      "name": "Sylens",
+      "description": "A mysterious and highly intelligent wanderer who assists Aloy while pursuing his own agenda.",
+      "image": "/assets/characters/horizon-zero-dawn-sylens.jpg"
+    },
+    {
+      "name": "Rost",
+      "description": "Aloy's adoptive father and a mentor who raised her in the wilds as an outcast.",
+      "image": "/assets/characters/horizon-zero-dawn-rost.jpg"
+    },
+    {
+      "name": "Erend",
+      "description": "A captain of the Vanguard and a loyal ally to Aloy in her journey.",
+      "image": "/assets/characters/horizon-zero-dawn-erend.jpg"
+    }
+  ],
+  "starfield": [
+    {
+      "name": "Sarah Morgan",
+      "description": "The leader of Constellation and a former soldier with a passion for exploration.",
+      "image": "/assets/characters/starfield-sarah_morgan.jpg"
+    },
+    {
+      "name": "Sam Coe",
+      "description": "A skilled pilot and former Space Ranger with a deep connection to the Freestar Collective.",
+      "image": "/assets/characters/starfield-sam_coe.jpg"
+    },
+    {
+      "name": "Barrett",
+      "description": "A brilliant scientist and explorer with a quick wit and a love for discovery.",
+      "image": "/assets/characters/starfield-barrett.jpg"
+    },
+    {
+      "name": "Andreja",
+      "description": "A mysterious member of Constellation with a complex past and unique skills.",
+      "image": "/assets/characters/starfield-andreja.jpg"
+    }
+  ],
+  "disco-elysium": [
+    {
+      "name": "Harrier Du Bois",
+      "description": "A troubled detective trying to solve a murder while dealing with amnesia and his own internal voices.",
+      "image": "/assets/characters/disco-elysium-harrier_du_bois.jpg"
+    },
+    {
+      "name": "Kim Kitsuragi",
+      "description": "Harry's patient and professional partner from another precinct, a steadying influence.",
+      "image": "/assets/characters/disco-elysium-kim_kitsuragi.jpg"
+    },
+    {
+      "name": "Klaasje Amandou",
+      "description": "A mysterious woman and key witness in the murder investigation.",
+      "image": "/assets/characters/disco-elysium-klaasje_amandou.jpg"
+    },
+    {
+      "name": "Evrart Claire",
+      "description": "The corrupt but influential leader of the dockworkers' union in Martinaise.",
+      "image": "/assets/characters/disco-elysium-evrart_claire.jpg"
+    }
+  ],
+  "destiny-2": [
+    {
+      "name": "Zavala",
+      "description": "The Vanguard Commander and a Titan who has dedicated his life to protecting the Last City.",
+      "image": "/assets/characters/destiny-2-zavala.jpg"
+    },
+    {
+      "name": "Ikora Rey",
+      "description": "The Vanguard for Warlocks and a powerful master of the Void.",
+      "image": "/assets/characters/destiny-2-ikora_rey.jpg"
+    },
+    {
+      "name": "Cayde-6",
+      "description": "The former Hunter Vanguard known for his wit and adventurous spirit.",
+      "image": "/assets/characters/destiny-2-cayde-6.jpg"
+    },
+    {
+      "name": "The Witness",
+      "description": "An ancient and powerful entity that is the ultimate antagonist of the Guardians.",
+      "image": "/assets/characters/destiny-2-the_witness.jpg"
+    }
+  ],
+  "apex-legends": [
+    {
+      "name": "Wraith",
+      "description": "A skirmisher with the ability to travel through dimensions and hear voices from other worlds.",
+      "image": "/assets/characters/apex-legends-wraith.jpg"
+    },
+    {
+      "name": "Bloodhound",
+      "description": "A master tracker and legendary hunter, known for their connection to the Old Ways.",
+      "image": "/assets/characters/apex-legends-bloodhound.jpg"
+    },
+    {
+      "name": "Gibraltar",
+      "description": "A defensive legend dedicated to protecting his teammates on the battlefield.",
+      "image": "/assets/characters/apex-legends-gibraltar.jpg"
+    },
+    {
+      "name": "Lifeline",
+      "description": "A support legend and combat medic who uses her skills to save lives.",
+      "image": "/assets/characters/apex-legends-lifeline.jpg"
+    }
+  ],
+  "titanfall-2": [
+    {
+      "name": "Jack Cooper",
+      "description": "A frontiersman turned pilot who forms a bond with the Titan BT-7274.",
+      "image": "/assets/characters/titanfall-2-jack_cooper.jpg"
+    },
+    {
+      "name": "BT-7274",
+      "description": "An Vanguard-class Titan and Jack Cooper's partner in their mission to stop the IMC.",
+      "image": "/assets/characters/titanfall-2-bt-7274.jpg"
+    },
+    {
+      "name": "Kuben Blisk",
+      "description": "A ruthless mercenary leader and commander of the Apex Predators.",
+      "image": "/assets/characters/titanfall-2-kuben_blisk.jpg"
+    },
+    {
+      "name": "Ash",
+      "description": "A simulacrum pilot and cold-blooded assassin who works for the Apex Predators.",
+      "image": "/assets/characters/titanfall-2-ash.jpg"
+    }
+  ],
+  "half-life-2": [
+    {
+      "name": "Gordon Freeman",
+      "description": "The silent protagonist and theoretical physicist who becomes a icon of the resistance.",
+      "image": "/assets/characters/half-life-2-gordon_freeman.jpg"
+    },
+    {
+      "name": "Alyx Vance",
+      "description": "A core member of the resistance and Gordon's close ally in his journey.",
+      "image": "/assets/characters/half-life-2-alyx_vance.jpg"
+    },
+    {
+      "name": "G-Man",
+      "description": "An enigmatic and seemingly supernatural figure who monitors and manipulates Gordon.",
+      "image": "/assets/characters/half-life-2-g-man.jpg"
+    },
+    {
+      "name": "Barney Calhoun",
+      "description": "A former Black Mesa security guard and undercover resistance member.",
+      "image": "/assets/characters/half-life-2-barney_calhoun.jpg"
+    }
+  ],
+  "bioshock": [
+    {
+      "name": "Jack (BioShock)",
+      "description": "The protagonist who arrives in the underwater city of Rapture and discovers its dark secrets.",
+      "image": "/assets/characters/bioshock-jack_(bioshock).jpg"
+    },
+    {
+      "name": "Andrew Ryan",
+      "description": "The visionary and megalomaniacal founder of Rapture, who believes in a society without limits.",
+      "image": "/assets/characters/bioshock-andrew_ryan.jpg"
+    },
+    {
+      "name": "Big Daddy",
+      "description": "Protecters of the Little Sisters, genetically enhanced humans in deep-sea diving suits.",
+      "image": "/assets/characters/bioshock-big_daddy.jpg"
+    },
+    {
+      "name": "Little Sister",
+      "description": "Genetically modified girls who harvest ADAM from corpses in the ruins of Rapture.",
+      "image": "/assets/characters/bioshock-little_sister.jpg"
+    }
+  ],
+  "borderlands-3": [
+    {
+      "name": "Lilith",
+      "description": "The leader of the Crimson Raiders and a powerful Siren known as the Firehawk.",
+      "image": "/assets/characters/borderlands-3-lilith.jpg"
+    },
+    {
+      "name": "Claptrap",
+      "description": "A wise-cracking and often annoying CL4P-TP general purpose robot.",
+      "image": "/assets/characters/borderlands-3-claptrap.jpg"
+    },
+    {
+      "name": "Zane",
+      "description": "A semi-retired corporate hitman with multiple gadgets and a sharp tongue.",
+      "image": "/assets/characters/borderlands-3-zane.jpg"
+    },
+    {
+      "name": "Amara",
+      "description": "A Siren and a champion of the people, capable of summoning powerful ethereal arms.",
+      "image": "/assets/characters/borderlands-3-amara.jpg"
+    }
+  ],
+  "overwatch-2": [
+    {
+      "name": "Tracer",
+      "description": "A time-traveling adventurer and former test pilot who uses her abilities to help others.",
+      "image": "/assets/characters/overwatch-2-tracer.jpg"
+    },
+    {
+      "name": "Winston",
+      "description": "A brilliant genetically engineered gorilla and leader of the Overwatch team.",
+      "image": "/assets/characters/overwatch-2-winston.jpg"
+    },
+    {
+      "name": "Reaper",
+      "description": "A vengeful assassin with phantom-like abilities, formerly an Overwatch associate.",
+      "image": "/assets/characters/overwatch-2-reaper.jpg"
+    },
+    {
+      "name": "Mei",
+      "description": "A climatologist and adventurer who uses weather-altering technology to protect the environment.",
+      "image": "/assets/characters/overwatch-2-mei.jpg"
+    }
+  ],
+  "cod-mw": [
+    {
+      "name": "John Price (Reboot)",
+      "description": "A legendary SAS officer and leader of Task Force 141.",
+      "image": "/assets/characters/cod-mw-john_price_(reboot).jpg"
+    },
+    {
+      "name": "Simon Riley (Reboot)",
+      "description": "The iconic and mysterious Ghost, a master of stealth and tactical operations.",
+      "image": "/assets/characters/cod-mw-simon_riley_(reboot).jpg"
+    },
+    {
+      "name": "John MacTavish (Reboot)",
+      "description": "Soap, a highly skilled demolitions expert and sniper.",
+      "image": "/assets/characters/cod-mw-john_mactavish_(reboot).jpg"
+    },
+    {
+      "name": "Kyle Garrick",
+      "description": "Gaz, a former police officer and key member of Task Force 141.",
+      "image": "/assets/characters/cod-mw-kyle_garrick.jpg"
+    }
+  ],
+  "battlefield-1": [
+    {
+      "name": "Frederick Bishop",
+      "description": "A grizzled veteran who mentors a young message runner during the Gallipoli campaign.",
+      "image": "/assets/characters/battlefield-1-frederick_bishop.jpg"
+    },
+    {
+      "name": "Danny Edwards",
+      "description": "A young tank driver who learns the harsh realities of war on the Western Front.",
+      "image": "/assets/characters/battlefield-1-danny_edwards.jpg"
+    },
+    {
+      "name": "Luca Vincenzo Coccila",
+      "description": "An Italian Arditi soldier reflecting on his experiences in the Alps.",
+      "image": "/assets/characters/battlefield-1-luca_vincenzo_coccila.jpg"
+    }
+  ],
+  "r6-siege": [
+    {
+      "name": "Ash",
+      "description": "An FBI SWAT operator known for her explosive entry capabilities.",
+      "image": "/assets/characters/r6-siege-ash.jpg"
+    },
+    {
+      "name": "J\u00e4ger",
+      "description": "A GSG 9 operator who specializes in defense and trophy systems.",
+      "image": "/assets/characters/r6-siege-j\u00e4ger.jpg"
+    },
+    {
+      "name": "Thermite",
+      "description": "An FBI SWAT operator with powerful exothermic charges for breaching.",
+      "image": "/assets/characters/r6-siege-thermite.jpg"
+    },
+    {
+      "name": "Thatcher",
+      "description": "An SAS operator whose EMP grenades are essential for disabling enemy technology.",
+      "image": "/assets/characters/r6-siege-thatcher.jpg"
+    }
+  ],
+  "far-cry-6": [
+    {
+      "name": "Dani Rojas",
+      "description": "The protagonist and revolutionary fighter seeking to liberate Yara from a dictator.",
+      "image": "/assets/characters/far-cry-6-dani_rojas.jpg"
+    },
+    {
+      "name": "Ant\u00f3n Castillo",
+      "description": "The ruthless dictator of Yara who seeks to preserve his family's legacy.",
+      "image": "/assets/characters/far-cry-6-ant\u00f3n_castillo.jpg"
+    },
+    {
+      "name": "Guapo",
+      "description": "Dani's loyal pet alligator and combat companion.",
+      "image": "/assets/characters/far-cry-6-guapo.jpg"
+    },
+    {
+      "name": "Juan Cortez",
+      "description": "A legendary spymaster and revolutionary mentor to Dani.",
+      "image": "/assets/characters/far-cry-6-juan_cortez.jpg"
+    }
+  ],
+  "metro-exodus": [
+    {
+      "name": "Artyom",
+      "description": "The protagonist who leads a group of survivors out of the Moscow Metro in search of a new home.",
+      "image": "/assets/characters/metro-exodus-artyom.jpg"
+    },
+    {
+      "name": "Anna Mel'nikova",
+      "description": "Artyom's wife and a highly skilled sniper in the Spartan Order.",
+      "image": "/assets/characters/metro-exodus-anna_mel'nikova.jpg"
+    },
+    {
+      "name": "Miller",
+      "description": "The leader of the Spartan Order and a fatherly figure to Artyom and Anna.",
+      "image": "/assets/characters/metro-exodus-miller.jpg"
+    },
+    {
+      "name": "Sam",
+      "description": "A former US Marine and Spartan Ranger who dreams of returning to his homeland.",
+      "image": "/assets/characters/metro-exodus-sam.jpg"
+    }
+  ],
+  "wolfenstein-2": [
+    {
+      "name": "William Joseph Blazkowicz",
+      "description": "The legendary Nazi-slayer and leader of the American resistance.",
+      "image": "/assets/characters/wolfenstein-2-william_joseph_blazkowicz.jpg"
+    },
+    {
+      "name": "Anya Oliwa",
+      "description": "Blazkowicz's wife and a vital member of the resistance intelligence network.",
+      "image": "/assets/characters/wolfenstein-2-anya_oliwa.jpg"
+    },
+    {
+      "name": "Frau Engel",
+      "description": "A high-ranking and sadistic Nazi officer who is the primary antagonist.",
+      "image": "/assets/characters/wolfenstein-2-frau_engel.jpg"
+    },
+    {
+      "name": "Seth Roth",
+      "description": "A brilliant Jewish scientist and inventor who provides advanced technology to the resistance.",
+      "image": "/assets/characters/wolfenstein-2-seth_roth.jpg"
+    }
+  ],
+  "crysis": [
+    {
+      "name": "Laurence \"Prophet\" Barnes",
+      "description": "The commander of Raptor Team and a veteran with a deep connection to the Nanosuit.",
+      "image": "/assets/characters/crysis-laurence_prophet_barnes.jpg"
+    },
+    {
+      "name": "Michael \"Psycho\" Sykes",
+      "description": "A member of Raptor Team known for his aggressive and effective combat style.",
+      "image": "/assets/characters/crysis-michael_psycho_sykes.jpg"
+    },
+    {
+      "name": "Nomad",
+      "description": "The protagonist of the first Crysis, a member of Raptor Team in a Nanosuit.",
+      "image": "/assets/characters/crysis-nomad.jpg"
+    },
+    {
+      "name": "Alcatraz",
+      "description": "A Marine who becomes the host for Prophet's Nanosuit in Crysis 2.",
+      "image": "/assets/characters/crysis-alcatraz.jpg"
+    }
+  ],
+  "silent-hill-2": [
+    {
+      "name": "James Sunderland",
+      "description": "A man who travels to Silent Hill after receiving a letter from his deceased wife.",
+      "image": "/assets/characters/silent-hill-2-james_sunderland.jpg"
+    },
+    {
+      "name": "Mary Shepherd-Sunderland",
+      "description": "James's wife who died of a long illness three years before the start of the game.",
+      "image": "/assets/characters/silent-hill-2-mary_shepherd-sunderland.jpg"
+    },
+    {
+      "name": "Maria",
+      "description": "A mysterious woman James meets in Silent Hill who bear a striking resemblance to Mary.",
+      "image": "/assets/characters/silent-hill-2-maria.jpg"
+    },
+    {
+      "name": "Angela Orosco",
+      "description": "A troubled young woman James encounter in Silent Hill, searching for her mother.",
+      "image": "/assets/characters/silent-hill-2-angela_orosco.jpg"
+    }
+  ],
+  "dead-space": [
+    {
+      "name": "Isaac Clarke",
+      "description": "An engineer trapped on a spaceship infested with horrific necro-morphs.",
+      "image": "/assets/characters/dead-space-isaac_clarke.jpg"
+    },
+    {
+      "name": "Nicole Brennan",
+      "description": "Isaac's girlfriend and a medical officer on the USG Ishimura.",
+      "image": "/assets/characters/dead-space-nicole_brennan.jpg"
+    },
+    {
+      "name": "Kendra Daniels",
+      "description": "A computer specialist and member of the Ishimura search and rescue team.",
+      "image": "/assets/characters/dead-space-kendra_daniels.jpg"
+    },
+    {
+      "name": "Zach Hammond",
+      "description": "The chief security officer and leader of the Search and Rescue mission.",
+      "image": "/assets/characters/dead-space-zach_hammond.jpg"
+    }
+  ],
+  "amnesia": [
+    {
+      "name": "Daniel",
+      "description": "A man who awakens in a dark castle with no memories of his past, pursued by a shadowy presence.",
+      "image": "/assets/characters/amnesia-daniel.jpg"
+    },
+    {
+      "name": "Alexander of Brennenburg",
+      "description": "The lord of the castle who has been performing dark rituals to prolong his life.",
+      "image": "/assets/characters/amnesia-alexander_of_brennenburg.jpg"
+    },
+    {
+      "name": "Agrippa",
+      "description": "An ancient scholar trapped in the castle, who guides Daniel through the darkness.",
+      "image": "/assets/characters/amnesia-agrippa.jpg"
+    }
+  ],
+  "outlast-2": [
+    {
+      "name": "Blake Langermann",
+      "description": "A cameraman and journalist who becomes stranded in a remote cultist-controlled village.",
+      "image": "/assets/characters/outlast-2-blake_langermann.jpg"
+    },
+    {
+      "name": "Lynn Langermann",
+      "description": "Blake's wife and a journalist who is kidnapped by the cultists.",
+      "image": "/assets/characters/outlast-2-lynn_langermann.jpg"
+    },
+    {
+      "name": "Sullivan Knoth",
+      "description": "The charismatic and fanatical leader of the cult in Temple Gate.",
+      "image": "/assets/characters/outlast-2-sullivan_knoth.jpg"
+    },
+    {
+      "name": "Val",
+      "description": "The leader of the Heretics, a group that has broken away from Knoth's cult.",
+      "image": "/assets/characters/outlast-2-val.jpg"
+    }
+  ],
+  "alien-isolation": [
+    {
+      "name": "Amanda Ripley",
+      "description": "The daughter of Ellen Ripley, searching for the truth about her mother's disappearance.",
+      "image": "/assets/characters/alien-isolation-amanda_ripley.jpg"
+    },
+    {
+      "name": "Christopher Samuels",
+      "description": "A Weyland-Yutani synthetic who assists Amanda in her journey.",
+      "image": "/assets/characters/alien-isolation-christopher_samuels.jpg"
+    },
+    {
+      "name": "Ricardo",
+      "description": "A security officer on Sevastopol Station who helps Amanda survive the Alien.",
+      "image": "/assets/characters/alien-isolation-ricardo.jpg"
+    },
+    {
+      "name": "Working Joe",
+      "description": "Hostile synthetic assistants on Sevastopol Station who have turned on the crew.",
+      "image": "/assets/characters/alien-isolation-working_joe.jpg"
+    }
+  ],
+  "evil-within-2": [
+    {
+      "name": "Sebastian Castellanos",
+      "description": "A detective who enters a nightmarish simulated world to save his daughter Lily.",
+      "image": "/assets/characters/evil-within-2-sebastian_castellanos.jpg"
+    },
+    {
+      "name": "Juli Kidman",
+      "description": "Sebastian's former partner and an agent of Mobius who assists him from the outside.",
+      "image": "/assets/characters/evil-within-2-juli_kidman.jpg"
+    },
+    {
+      "name": "Theodore Wallace",
+      "description": "A manipulative cult leader who seek to control the STEM system.",
+      "image": "/assets/characters/evil-within-2-theodore_wallace.jpg"
+    },
+    {
+      "name": "Stefano Valentini",
+      "description": "A sadistic artist who use the nightmarish creatures of STEM for his work.",
+      "image": "/assets/characters/evil-within-2-stefano_valentini.jpg"
+    }
+  ],
+  "alan-wake-2": [
+    {
+      "name": "Alan Wake",
+      "description": "A best-selling horror writer who has been trapped in a dark dimension for thirteen years.",
+      "image": "/assets/characters/alan-wake-2-alan_wake.jpg"
+    },
+    {
+      "name": "Saga Anderson",
+      "description": "An FBI profiler investigating a series of ritualistic murders in the Pacific Northwest.",
+      "image": "/assets/characters/alan-wake-2-saga_anderson.jpg"
+    },
+    {
+      "name": "Alex Casey",
+      "description": "Saga's partner and an FBI agent who is also a character in Alan Wake's novels.",
+      "image": "/assets/characters/alan-wake-2-alex_casey.jpg"
+    },
+    {
+      "name": "Mr. Door",
+      "description": "An enigmatic and powerful figure who exists in the dark dimension alongside Alan Wake.",
+      "image": "/assets/characters/alan-wake-2-mr._door.jpg"
+    }
+  ],
+  "phasmophobia": [
+    {
+      "name": "Ghost Hunter",
+      "description": "The player character, a member of a team investigating paranormal activity.",
+      "image": "/assets/characters/phasmophobia-ghost_hunter.jpg"
+    },
+    {
+      "name": "Spirit",
+      "description": "The most common ghost type, but still very dangerous to inexperienced hunters.",
+      "image": "/assets/characters/phasmophobia-spirit.jpg"
+    },
+    {
+      "name": "Wraith",
+      "description": "A ethereal ghost that can travel through walls and tracks by sound.",
+      "image": "/assets/characters/phasmophobia-wraith.jpg"
+    },
+    {
+      "name": "Phantom",
+      "description": "A ghost that can possess the living and cause deep fear in those who see it.",
+      "image": "/assets/characters/phasmophobia-phantom.jpg"
+    }
+  ],
+  "until-dawn": [
+    {
+      "name": "Samantha Giddings",
+      "description": "A kind and resourceful girl who becomes a key leader of the group.",
+      "image": "/assets/characters/until-dawn-samantha_giddings.jpg"
+    },
+    {
+      "name": "Michael Munroe",
+      "description": "A charming and ambitious boy who must use his wits to survive the night.",
+      "image": "/assets/characters/until-dawn-michael_munroe.jpg"
+    },
+    {
+      "name": "Joshua Washington",
+      "description": "A young man who has organized the winter getaway in memory of his sisters.",
+      "image": "/assets/characters/until-dawn-joshua_washington.jpg"
+    },
+    {
+      "name": "Hannah Washington",
+      "description": "One of Josh's sisters whose disappearance a year earlier triggered the game's events.",
+      "image": "/assets/characters/until-dawn-hannah_washington.jpg"
+    }
+  ],
+  "little-nightmares-2": [
+    {
+      "name": "Mono",
+      "description": "A young boy with a paper bag over his head who must navigate a distorted world.",
+      "image": "/assets/characters/little-nightmares-2-mono.jpg"
+    },
+    {
+      "name": "Six",
+      "description": "A girl in a yellow raincoat who becomes Mono's companion in his journey.",
+      "image": "/assets/characters/little-nightmares-2-six.jpg"
+    },
+    {
+      "name": "The Hunter",
+      "description": "A giant and formidable hunter who pursues Mono and Six in the beginning.",
+      "image": "/assets/characters/little-nightmares-2-the_hunter.jpg"
+    },
+    {
+      "name": "The Teacher",
+      "description": "A long-necked and terrifying teacher who guards the school.",
+      "image": "/assets/characters/little-nightmares-2-the_teacher.jpg"
+    }
+  ],
+  "layers-of-fear": [
+    {
+      "name": "The Painter",
+      "description": "The protagonist, a struggling artist whose descent into madness is the core of the game.",
+      "image": "/assets/characters/layers-of-fear-the_painter.jpg"
+    },
+    {
+      "name": "The Musician",
+      "description": "The Painter's wife, a talented pianist whose career was cut short by a tragic accident.",
+      "image": "/assets/characters/layers-of-fear-the_musician.jpg"
+    },
+    {
+      "name": "The Artist's Daughter",
+      "description": "A young girl caught in the middle of her parents' deteriorating relationship.",
+      "image": "/assets/characters/layers-of-fear-the_artist's_daughter.jpg"
+    }
+  ],
+  "soma": [
+    {
+      "name": "Simon Jarrett",
+      "description": "A man who undergoes a brain scan and awakens in a decaying underwater research facility.",
+      "image": "/assets/characters/soma-simon_jarrett.jpg"
+    },
+    {
+      "name": "Catherine Chun",
+      "description": "A scientist at the facility who guide Simon through the AI-controlled research center.",
+      "image": "/assets/characters/soma-catherine_chun.jpg"
+    },
+    {
+      "name": "The WAU",
+      "description": "An artificial intelligence that has taken over the facility and corrupted the inhabitants.",
+      "image": "/assets/characters/soma-the_wau.jpg"
+    },
+    {
+      "name": "Brandon Wan",
+      "description": "A former security chief who is now a semi-sentient corrupted being.",
+      "image": "/assets/characters/soma-brandon_wan.jpg"
+    }
+  ],
+  "fatal-frame": [
+    {
+      "name": "Mio Amakura",
+      "description": "A young girl who visits a lost village where she is hunted by spirits.",
+      "image": "/assets/characters/fatal-frame-mio_amakura.jpg"
+    },
+    {
+      "name": "Mayu Amakura",
+      "description": "Mio's twin sister who has a mysterious connection to the village's spirits.",
+      "image": "/assets/characters/fatal-frame-mayu_amakura.jpg"
+    },
+    {
+      "name": "Sae Kurosawa",
+      "description": "The vengeful spirit of a girl who was sacrificed in a tragic ritual in the village.",
+      "image": "/assets/characters/fatal-frame-sae_kurosawa.jpg"
+    }
+  ],
+  "dead-by-daylight": [
+    {
+      "name": "Evan MacMillan",
+      "description": "The Trapper, a powerful and iconic killer who uses bear traps to hunt survivors.",
+      "image": "/assets/characters/dead-by-daylight-evan_macmillan.jpg"
+    },
+    {
+      "name": "Dwight Fairfield",
+      "description": "A survivor who is known for his leadership skills and ability to hide.",
+      "image": "/assets/characters/dead-by-daylight-dwight_fairfield.jpg"
+    },
+    {
+      "name": "Meg Thomas",
+      "description": "A fast and agile survivor who can outrun many killers.",
+      "image": "/assets/characters/dead-by-daylight-meg_thomas.jpg"
+    },
+    {
+      "name": "Claudette Morel",
+      "description": "A survivor with deep knowledge of healing and medical supplies.",
+      "image": "/assets/characters/dead-by-daylight-claudette_morel.jpg"
+    }
+  ],
+  "portal-2": [
+    {
+      "name": "Chell",
+      "description": "The silent protagonist who must use the portal gun to escape the Aperture Science facility.",
+      "image": "/assets/characters/portal-2-chell.jpg"
+    },
+    {
+      "name": "GLaDOS",
+      "description": "The cynical and manipulative AI that controls the testing chambers.",
+      "image": "/assets/characters/portal-2-glados.jpg"
+    },
+    {
+      "name": "Wheatley",
+      "description": "A talkative and initially helpful personality core who has his own hidden agenda.",
+      "image": "/assets/characters/portal-2-wheatley.jpg"
+    },
+    {
+      "name": "Cave Johnson",
+      "description": "The eccentric and ambitious founder of Aperture Science, heard through recordings.",
+      "image": "/assets/characters/portal-2-cave_johnson.jpg"
+    }
+  ]
+}

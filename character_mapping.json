@@ -1,0 +1,830 @@
+{
+  "elden-ring": [
+    {
+      "name": "Melina",
+      "image": "/assets/characters/elden-ring-melina.jpg"
+    },
+    {
+      "name": "Malenia",
+      "image": "/assets/characters/elden-ring-malenia.jpg"
+    },
+    {
+      "name": "Ranni",
+      "image": "/assets/characters/elden-ring-ranni.jpg"
+    },
+    {
+      "name": "Blaidd",
+      "image": "/assets/characters/elden-ring-blaidd.jpg"
+    }
+  ],
+  "the-witcher-3": [
+    {
+      "name": "Geralt of Rivia",
+      "image": "/assets/characters/the-witcher-3-geralt_of_rivia.jpg"
+    },
+    {
+      "name": "Yennefer of Vengerberg",
+      "image": "/assets/characters/the-witcher-3-yennefer_of_vengerberg.jpg"
+    },
+    {
+      "name": "Ciri",
+      "image": "/assets/characters/the-witcher-3-ciri.jpg"
+    },
+    {
+      "name": "Triss Merigold",
+      "image": "/assets/characters/the-witcher-3-triss_merigold.jpg"
+    }
+  ],
+  "god-of-war": [
+    {
+      "name": "Kratos",
+      "image": "/assets/characters/god-of-war-kratos.jpg"
+    },
+    {
+      "name": "Atreus",
+      "image": "/assets/characters/god-of-war-atreus.jpg"
+    },
+    {
+      "name": "Freya",
+      "image": "/assets/characters/god-of-war-freya.jpg"
+    },
+    {
+      "name": "Baldur",
+      "image": "/assets/characters/god-of-war-baldur.jpg"
+    }
+  ],
+  "rdr2": [
+    {
+      "name": "Arthur Morgan",
+      "image": "https://placehold.co/200x200?text=Arthur+Morgan"
+    },
+    {
+      "name": "John Marston",
+      "image": "https://placehold.co/200x200?text=John+Marston"
+    },
+    {
+      "name": "Dutch van der Linde",
+      "image": "https://placehold.co/200x200?text=Dutch+van+der+Linde"
+    },
+    {
+      "name": "Sadie Adler",
+      "image": "https://placehold.co/200x200?text=Sadie+Adler"
+    }
+  ],
+  "doom-eternal": [
+    {
+      "name": "Doom Slayer",
+      "image": "/assets/characters/doom-eternal-doom_slayer.jpg"
+    },
+    {
+      "name": "Samuel Hayden",
+      "image": "/assets/characters/doom-eternal-samuel_hayden.jpg"
+    },
+    {
+      "name": "Khan Maykr",
+      "image": "/assets/characters/doom-eternal-khan_maykr.jpg"
+    }
+  ],
+  "cyberpunk": [
+    {
+      "name": "V (Character)",
+      "image": "https://placehold.co/200x200?text=V+(Character)"
+    },
+    {
+      "name": "Johnny Silverhand",
+      "image": "/assets/characters/cyberpunk-johnny_silverhand.jpg"
+    },
+    {
+      "name": "Jackie Welles",
+      "image": "/assets/characters/cyberpunk-jackie_welles.jpg"
+    },
+    {
+      "name": "Judy Alvarez",
+      "image": "/assets/characters/cyberpunk-judy_alvarez.jpg"
+    }
+  ],
+  "re-village": [
+    {
+      "name": "Ethan Winters",
+      "image": "/assets/characters/re-village-ethan_winters.jpg"
+    },
+    {
+      "name": "Alcina Dimitrescu",
+      "image": "/assets/characters/re-village-alcina_dimitrescu.jpg"
+    },
+    {
+      "name": "Mother Miranda",
+      "image": "/assets/characters/re-village-mother_miranda.jpg"
+    },
+    {
+      "name": "Chris Redfield",
+      "image": "/assets/characters/re-village-chris_redfield.jpg"
+    }
+  ],
+  "halo-infinite": [
+    {
+      "name": "John-117",
+      "image": "/assets/characters/halo-infinite-john-117.jpg"
+    },
+    {
+      "name": "Cortana",
+      "image": "/assets/characters/halo-infinite-cortana.jpg"
+    },
+    {
+      "name": "The Weapon",
+      "image": "/assets/characters/halo-infinite-the_weapon.jpg"
+    },
+    {
+      "name": "Escharum",
+      "image": "/assets/characters/halo-infinite-escharum.jpg"
+    }
+  ],
+  "bloodborne": [
+    {
+      "name": "The Hunter",
+      "image": "/assets/characters/bloodborne-the_hunter.jpg"
+    },
+    {
+      "name": "Plain Doll",
+      "image": "https://placehold.co/200x200?text=Plain+Doll"
+    },
+    {
+      "name": "Gehrman",
+      "image": "/assets/characters/bloodborne-gehrman.jpg"
+    },
+    {
+      "name": "Father Gascoigne",
+      "image": "/assets/characters/bloodborne-father_gascoigne.jpg"
+    }
+  ],
+  "tlou2": [
+    {
+      "name": "Ellie (The Last of Us Part II)",
+      "image": "https://placehold.co/200x200?text=Ellie+(The+Last+of+Us+Part+II)"
+    },
+    {
+      "name": "Abby Anderson",
+      "image": "/assets/characters/tlou2-abby_anderson.jpg"
+    },
+    {
+      "name": "Joel Miller",
+      "image": "/assets/characters/tlou2-joel_miller.jpg"
+    },
+    {
+      "name": "Dina",
+      "image": "/assets/characters/tlou2-dina.jpg"
+    }
+  ],
+  "skyrim": [
+    {
+      "name": "Last Dragonborn",
+      "image": "/assets/characters/skyrim-last_dragonborn.jpg"
+    },
+    {
+      "name": "Alduin",
+      "image": "/assets/characters/skyrim-alduin.jpg"
+    },
+    {
+      "name": "Paarthurnax",
+      "image": "/assets/characters/skyrim-paarthurnax.jpg"
+    },
+    {
+      "name": "Balgruuf the Greater",
+      "image": "/assets/characters/skyrim-balgruuf_the_greater.jpg"
+    }
+  ],
+  "fallout-4": [
+    {
+      "name": "Sole Survivor",
+      "image": "https://placehold.co/200x200?text=Sole+Survivor"
+    },
+    {
+      "name": "Piper Wright",
+      "image": "https://placehold.co/200x200?text=Piper+Wright"
+    },
+    {
+      "name": "Nick Valentine",
+      "image": "https://placehold.co/200x200?text=Nick+Valentine"
+    },
+    {
+      "name": "Paladin Danse",
+      "image": "https://placehold.co/200x200?text=Paladin+Danse"
+    }
+  ],
+  "mass-effect": [
+    {
+      "name": "Commander Shepard",
+      "image": "/assets/characters/mass-effect-commander_shepard.jpg"
+    },
+    {
+      "name": "Garrus Vakarian",
+      "image": "/assets/characters/mass-effect-garrus_vakarian.jpg"
+    },
+    {
+      "name": "Liara T'Soni",
+      "image": "/assets/characters/mass-effect-liara_t'soni.jpg"
+    },
+    {
+      "name": "Tali'Zorah",
+      "image": "/assets/characters/mass-effect-tali'zorah.jpg"
+    }
+  ],
+  "persona-5": [
+    {
+      "name": "Protagonist (Persona 5)",
+      "image": "https://placehold.co/200x200?text=Protagonist+(Persona+5)"
+    },
+    {
+      "name": "Morgana",
+      "image": "https://placehold.co/200x200?text=Morgana"
+    },
+    {
+      "name": "Ryuji Sakamoto",
+      "image": "https://placehold.co/200x200?text=Ryuji+Sakamoto"
+    },
+    {
+      "name": "Ann Takamaki",
+      "image": "https://placehold.co/200x200?text=Ann+Takamaki"
+    }
+  ],
+  "baldur's-gate-3": [
+    {
+      "name": "Shadowheart",
+      "image": "https://placehold.co/200x200?text=Shadowheart"
+    },
+    {
+      "name": "Astarion",
+      "image": "https://placehold.co/200x200?text=Astarion"
+    },
+    {
+      "name": "Gale",
+      "image": "https://placehold.co/200x200?text=Gale"
+    },
+    {
+      "name": "Lae'zel",
+      "image": "https://placehold.co/200x200?text=Lae'zel"
+    }
+  ],
+  "ff7-remake": [
+    {
+      "name": "Cloud Strife",
+      "image": "https://placehold.co/200x200?text=Cloud+Strife"
+    },
+    {
+      "name": "Tifa Lockhart",
+      "image": "https://placehold.co/200x200?text=Tifa+Lockhart"
+    },
+    {
+      "name": "Aerith Gainsborough",
+      "image": "https://placehold.co/200x200?text=Aerith+Gainsborough"
+    },
+    {
+      "name": "Barret Wallace",
+      "image": "https://placehold.co/200x200?text=Barret+Wallace"
+    }
+  ],
+  "ghost-of-tsushima": [
+    {
+      "name": "Jin Sakai",
+      "image": "/assets/characters/ghost-of-tsushima-jin_sakai.jpg"
+    },
+    {
+      "name": "Lord Shimura",
+      "image": "/assets/characters/ghost-of-tsushima-lord_shimura.jpg"
+    },
+    {
+      "name": "Yuna",
+      "image": "/assets/characters/ghost-of-tsushima-yuna.jpg"
+    },
+    {
+      "name": "Khotun Khan",
+      "image": "/assets/characters/ghost-of-tsushima-khotun_khan.jpg"
+    }
+  ],
+  "horizon-zero-dawn": [
+    {
+      "name": "Aloy",
+      "image": "/assets/characters/horizon-zero-dawn-aloy.jpg"
+    },
+    {
+      "name": "Sylens",
+      "image": "/assets/characters/horizon-zero-dawn-sylens.jpg"
+    },
+    {
+      "name": "Rost",
+      "image": "/assets/characters/horizon-zero-dawn-rost.jpg"
+    },
+    {
+      "name": "Erend",
+      "image": "/assets/characters/horizon-zero-dawn-erend.jpg"
+    }
+  ],
+  "starfield": [
+    {
+      "name": "Sarah Morgan",
+      "image": "/assets/characters/starfield-sarah_morgan.jpg"
+    },
+    {
+      "name": "Sam Coe",
+      "image": "/assets/characters/starfield-sam_coe.jpg"
+    },
+    {
+      "name": "Barrett",
+      "image": "/assets/characters/starfield-barrett.jpg"
+    },
+    {
+      "name": "Andreja",
+      "image": "/assets/characters/starfield-andreja.jpg"
+    }
+  ],
+  "disco-elysium": [
+    {
+      "name": "Harrier Du Bois",
+      "image": "/assets/characters/disco-elysium-harrier_du_bois.jpg"
+    },
+    {
+      "name": "Kim Kitsuragi",
+      "image": "/assets/characters/disco-elysium-kim_kitsuragi.jpg"
+    },
+    {
+      "name": "Klaasje Amandou",
+      "image": "/assets/characters/disco-elysium-klaasje_amandou.jpg"
+    },
+    {
+      "name": "Evrart Claire",
+      "image": "/assets/characters/disco-elysium-evrart_claire.jpg"
+    }
+  ],
+  "destiny-2": [],
+  "apex-legends": [
+    {
+      "name": "Wraith",
+      "image": "https://placehold.co/200x200?text=Wraith"
+    },
+    {
+      "name": "Bloodhound",
+      "image": "https://placehold.co/200x200?text=Bloodhound"
+    },
+    {
+      "name": "Gibraltar",
+      "image": "https://placehold.co/200x200?text=Gibraltar"
+    },
+    {
+      "name": "Lifeline",
+      "image": "https://placehold.co/200x200?text=Lifeline"
+    }
+  ],
+  "titanfall-2": [
+    {
+      "name": "Jack Cooper",
+      "image": "/assets/characters/titanfall-2-jack_cooper.jpg"
+    },
+    {
+      "name": "BT-7274",
+      "image": "/assets/characters/titanfall-2-bt-7274.jpg"
+    },
+    {
+      "name": "Kuben Blisk",
+      "image": "/assets/characters/titanfall-2-kuben_blisk.jpg"
+    },
+    {
+      "name": "Ash",
+      "image": "/assets/characters/titanfall-2-ash.jpg"
+    }
+  ],
+  "half-life-2": [],
+  "bioshock": [
+    {
+      "name": "Jack (BioShock)",
+      "image": "https://placehold.co/200x200?text=Jack+(BioShock)"
+    },
+    {
+      "name": "Andrew Ryan",
+      "image": "/assets/characters/bioshock-andrew_ryan.jpg"
+    },
+    {
+      "name": "Big Daddy",
+      "image": "/assets/characters/bioshock-big_daddy.jpg"
+    },
+    {
+      "name": "Little Sister",
+      "image": "/assets/characters/bioshock-little_sister.jpg"
+    }
+  ],
+  "borderlands-3": [
+    {
+      "name": "Lilith",
+      "image": "/assets/characters/borderlands-3-lilith.jpg"
+    },
+    {
+      "name": "Claptrap",
+      "image": "/assets/characters/borderlands-3-claptrap.jpg"
+    },
+    {
+      "name": "Zane",
+      "image": "/assets/characters/borderlands-3-zane.jpg"
+    },
+    {
+      "name": "Amara",
+      "image": "/assets/characters/borderlands-3-amara.jpg"
+    }
+  ],
+  "overwatch-2": [
+    {
+      "name": "Tracer",
+      "image": "/assets/characters/overwatch-2-tracer.jpg"
+    },
+    {
+      "name": "Winston",
+      "image": "/assets/characters/overwatch-2-winston.jpg"
+    },
+    {
+      "name": "Reaper",
+      "image": "/assets/characters/overwatch-2-reaper.jpg"
+    },
+    {
+      "name": "Mei",
+      "image": "/assets/characters/overwatch-2-mei.jpg"
+    }
+  ],
+  "cod-mw": [
+    {
+      "name": "John Price (Reboot)",
+      "image": "/assets/characters/cod-mw-john_price_(reboot).jpg"
+    },
+    {
+      "name": "Simon Riley (Reboot)",
+      "image": "https://placehold.co/200x200?text=Simon+Riley+(Reboot)"
+    },
+    {
+      "name": "John MacTavish (Reboot)",
+      "image": "https://placehold.co/200x200?text=John+MacTavish+(Reboot)"
+    },
+    {
+      "name": "Kyle Garrick",
+      "image": "/assets/characters/cod-mw-kyle_garrick.jpg"
+    }
+  ],
+  "battlefield-1": [
+    {
+      "name": "Frederick Bishop",
+      "image": "/assets/characters/battlefield-1-frederick_bishop.jpg"
+    },
+    {
+      "name": "Danny Edwards",
+      "image": "/assets/characters/battlefield-1-danny_edwards.jpg"
+    },
+    {
+      "name": "Luca Vincenzo Coccila",
+      "image": "https://placehold.co/200x200?text=Luca+Vincenzo+Coccila"
+    }
+  ],
+  "r6-siege": [
+    {
+      "name": "Ash",
+      "image": "/assets/characters/r6-siege-ash.jpg"
+    },
+    {
+      "name": "J\u00e4ger",
+      "image": "https://placehold.co/200x200?text=J\u00e4ger"
+    },
+    {
+      "name": "Thermite",
+      "image": "/assets/characters/r6-siege-thermite.jpg"
+    },
+    {
+      "name": "Thatcher",
+      "image": "/assets/characters/r6-siege-thatcher.jpg"
+    }
+  ],
+  "far-cry-6": [
+    {
+      "name": "Dani Rojas",
+      "image": "https://placehold.co/200x200?text=Dani+Rojas"
+    },
+    {
+      "name": "Ant\u00f3n Castillo",
+      "image": "https://placehold.co/200x200?text=Ant\u00f3n+Castillo"
+    },
+    {
+      "name": "Guapo",
+      "image": "https://placehold.co/200x200?text=Guapo"
+    },
+    {
+      "name": "Juan Cortez",
+      "image": "https://placehold.co/200x200?text=Juan+Cortez"
+    }
+  ],
+  "metro-exodus": [
+    {
+      "name": "Artyom",
+      "image": "https://placehold.co/200x200?text=Artyom"
+    },
+    {
+      "name": "Anna Mel'nikova",
+      "image": "https://placehold.co/200x200?text=Anna+Mel'nikova"
+    },
+    {
+      "name": "Miller",
+      "image": "https://placehold.co/200x200?text=Miller"
+    },
+    {
+      "name": "Sam",
+      "image": "https://placehold.co/200x200?text=Sam"
+    }
+  ],
+  "wolfenstein-2": [
+    {
+      "name": "William Joseph Blazkowicz",
+      "image": "/assets/characters/wolfenstein-2-william_joseph_blazkowicz.jpg"
+    },
+    {
+      "name": "Anya Oliwa",
+      "image": "/assets/characters/wolfenstein-2-anya_oliwa.jpg"
+    },
+    {
+      "name": "Frau Engel",
+      "image": "/assets/characters/wolfenstein-2-frau_engel.jpg"
+    },
+    {
+      "name": "Seth Roth",
+      "image": "https://placehold.co/200x200?text=Seth+Roth"
+    }
+  ],
+  "crysis": [
+    {
+      "name": "Laurence \"Prophet\" Barnes",
+      "image": "https://placehold.co/200x200?text=Laurence+\"Prophet\"+Barnes"
+    },
+    {
+      "name": "Michael \"Psycho\" Sykes",
+      "image": "https://placehold.co/200x200?text=Michael+\"Psycho\"+Sykes"
+    },
+    {
+      "name": "Nomad",
+      "image": "/assets/characters/crysis-nomad.jpg"
+    },
+    {
+      "name": "Alcatraz",
+      "image": "/assets/characters/crysis-alcatraz.jpg"
+    }
+  ],
+  "silent-hill-2": [
+    {
+      "name": "James Sunderland",
+      "image": "https://placehold.co/200x200?text=James+Sunderland"
+    },
+    {
+      "name": "Mary Shepherd-Sunderland",
+      "image": "https://placehold.co/200x200?text=Mary+Shepherd-Sunderland"
+    },
+    {
+      "name": "Maria",
+      "image": "https://placehold.co/200x200?text=Maria"
+    },
+    {
+      "name": "Angela Orosco",
+      "image": "https://placehold.co/200x200?text=Angela+Orosco"
+    }
+  ],
+  "dead-space": [
+    {
+      "name": "Isaac Clarke",
+      "image": "https://placehold.co/200x200?text=Isaac+Clarke"
+    },
+    {
+      "name": "Nicole Brennan",
+      "image": "https://placehold.co/200x200?text=Nicole+Brennan"
+    },
+    {
+      "name": "Kendra Daniels",
+      "image": "https://placehold.co/200x200?text=Kendra+Daniels"
+    },
+    {
+      "name": "Zach Hammond",
+      "image": "https://placehold.co/200x200?text=Zach+Hammond"
+    }
+  ],
+  "amnesia": [
+    {
+      "name": "Daniel",
+      "image": "/assets/characters/amnesia-daniel.jpg"
+    },
+    {
+      "name": "Alexander of Brennenburg",
+      "image": "/assets/characters/amnesia-alexander_of_brennenburg.jpg"
+    },
+    {
+      "name": "Agrippa",
+      "image": "/assets/characters/amnesia-agrippa.jpg"
+    }
+  ],
+  "outlast-2": [
+    {
+      "name": "Blake Langermann",
+      "image": "/assets/characters/outlast-2-blake_langermann.jpg"
+    },
+    {
+      "name": "Lynn Langermann",
+      "image": "/assets/characters/outlast-2-lynn_langermann.jpg"
+    },
+    {
+      "name": "Sullivan Knoth",
+      "image": "/assets/characters/outlast-2-sullivan_knoth.jpg"
+    },
+    {
+      "name": "Val",
+      "image": "/assets/characters/outlast-2-val.jpg"
+    }
+  ],
+  "alien-isolation": [
+    {
+      "name": "Amanda Ripley",
+      "image": "/assets/characters/alien-isolation-amanda_ripley.jpg"
+    },
+    {
+      "name": "Christopher Samuels",
+      "image": "/assets/characters/alien-isolation-christopher_samuels.jpg"
+    },
+    {
+      "name": "Ricardo",
+      "image": "/assets/characters/alien-isolation-ricardo.jpg"
+    },
+    {
+      "name": "Working Joe",
+      "image": "/assets/characters/alien-isolation-working_joe.jpg"
+    }
+  ],
+  "evil-within-2": [
+    {
+      "name": "Sebastian Castellanos",
+      "image": "/assets/characters/evil-within-2-sebastian_castellanos.jpg"
+    },
+    {
+      "name": "Juli Kidman",
+      "image": "/assets/characters/evil-within-2-juli_kidman.jpg"
+    },
+    {
+      "name": "Theodore Wallace",
+      "image": "/assets/characters/evil-within-2-theodore_wallace.jpg"
+    },
+    {
+      "name": "Stefano Valentini",
+      "image": "/assets/characters/evil-within-2-stefano_valentini.jpg"
+    }
+  ],
+  "alan-wake-2": [
+    {
+      "name": "Alan Wake",
+      "image": "/assets/characters/alan-wake-2-alan_wake.jpg"
+    },
+    {
+      "name": "Saga Anderson",
+      "image": "/assets/characters/alan-wake-2-saga_anderson.jpg"
+    },
+    {
+      "name": "Alex Casey",
+      "image": "/assets/characters/alan-wake-2-alex_casey.jpg"
+    },
+    {
+      "name": "Mr. Door",
+      "image": "/assets/characters/alan-wake-2-mr._door.jpg"
+    }
+  ],
+  "phasmophobia": [
+    {
+      "name": "Ghost Hunter",
+      "image": "https://placehold.co/200x200?text=Ghost+Hunter"
+    },
+    {
+      "name": "Spirit",
+      "image": "/assets/characters/phasmophobia-spirit.jpg"
+    },
+    {
+      "name": "Wraith",
+      "image": "/assets/characters/phasmophobia-wraith.jpg"
+    },
+    {
+      "name": "Phantom",
+      "image": "/assets/characters/phasmophobia-phantom.jpg"
+    }
+  ],
+  "until-dawn": [
+    {
+      "name": "Samantha Giddings",
+      "image": "/assets/characters/until-dawn-samantha_giddings.jpg"
+    },
+    {
+      "name": "Michael Munroe",
+      "image": "/assets/characters/until-dawn-michael_munroe.jpg"
+    },
+    {
+      "name": "Joshua Washington",
+      "image": "/assets/characters/until-dawn-joshua_washington.jpg"
+    },
+    {
+      "name": "Hannah Washington",
+      "image": "/assets/characters/until-dawn-hannah_washington.jpg"
+    }
+  ],
+  "little-nightmares-2": [
+    {
+      "name": "Mono",
+      "image": "/assets/characters/little-nightmares-2-mono.jpg"
+    },
+    {
+      "name": "Six",
+      "image": "/assets/characters/little-nightmares-2-six.jpg"
+    },
+    {
+      "name": "The Hunter",
+      "image": "/assets/characters/little-nightmares-2-the_hunter.jpg"
+    },
+    {
+      "name": "The Teacher",
+      "image": "/assets/characters/little-nightmares-2-the_teacher.jpg"
+    }
+  ],
+  "layers-of-fear": [
+    {
+      "name": "The Painter",
+      "image": "/assets/characters/layers-of-fear-the_painter.jpg"
+    },
+    {
+      "name": "The Musician",
+      "image": "/assets/characters/layers-of-fear-the_musician.jpg"
+    },
+    {
+      "name": "The Artist's Daughter",
+      "image": "https://placehold.co/200x200?text=The+Artist's+Daughter"
+    }
+  ],
+  "soma": [
+    {
+      "name": "Simon Jarrett",
+      "image": "/assets/characters/soma-simon_jarrett.jpg"
+    },
+    {
+      "name": "Catherine Chun",
+      "image": "/assets/characters/soma-catherine_chun.jpg"
+    },
+    {
+      "name": "The WAU",
+      "image": "https://placehold.co/200x200?text=The+WAU"
+    },
+    {
+      "name": "Brandon Wan",
+      "image": "/assets/characters/soma-brandon_wan.jpg"
+    }
+  ],
+  "fatal-frame": [
+    {
+      "name": "Mio Amakura",
+      "image": "/assets/characters/fatal-frame-mio_amakura.jpg"
+    },
+    {
+      "name": "Mayu Amakura",
+      "image": "/assets/characters/fatal-frame-mayu_amakura.jpg"
+    },
+    {
+      "name": "Sae Kurosawa",
+      "image": "/assets/characters/fatal-frame-sae_kurosawa.jpg"
+    }
+  ],
+  "dead-by-daylight": [
+    {
+      "name": "Evan MacMillan",
+      "image": "https://placehold.co/200x200?text=Evan+MacMillan"
+    },
+    {
+      "name": "Dwight Fairfield",
+      "image": "https://placehold.co/200x200?text=Dwight+Fairfield"
+    },
+    {
+      "name": "Meg Thomas",
+      "image": "https://placehold.co/200x200?text=Meg+Thomas"
+    },
+    {
+      "name": "Claudette Morel",
+      "image": "https://placehold.co/200x200?text=Claudette+Morel"
+    }
+  ],
+  "portal-2": [
+    {
+      "name": "Chell",
+      "image": "https://placehold.co/200x200?text=Chell"
+    },
+    {
+      "name": "GLaDOS",
+      "image": "https://placehold.co/200x200?text=GLaDOS"
+    },
+    {
+      "name": "Wheatley",
+      "image": "https://placehold.co/200x200?text=Wheatley"
+    },
+    {
+      "name": "Cave Johnson",
+      "image": "https://placehold.co/200x200?text=Cave+Johnson"
+    }
+  ]
+}
